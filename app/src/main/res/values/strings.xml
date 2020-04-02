@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dog Breeds</string>
+    <string name="loading">Please wait while loading breeds...</string>
+    <string name="error">Something went wrong, unable to load the breeds.</string>
+</resources>
